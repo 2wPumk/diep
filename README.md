@@ -859,4 +859,9 @@ const BufferReader = class {
   }
   // ...
 };
+
+
+  }
+  // ...
+};
     
